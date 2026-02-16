@@ -1,8 +1,8 @@
 [
   {
     "pair_id": "000001",
-    "left_clip": "videos/front_cam_video/000000_n008-2018-09-18-13-10-39-0400__CAM_FRONT__1537291010612404_prev10.mp4",
-    "right_clip": "videos/front_cam_video/000000_n008-2018-09-18-13-10-39-0400__CAM_FRONT__1537291010612404_prev10.mp4",
+    "left_clip": "videos/early_late_mi_training/ckpt_1105920.pth_09_16_11_26_23_ckpt_11833344.pth_09_15_14_50_35_auto__srca1__tpre2_tpost2_60_293_agent1.mp4",
+    "right_clip": "videos/early_late_mi_training/ckpt_1105920.pth_09_16_11_26_23_ckpt_11833344.pth_09_15_14_50_35_auto__srca1__tpre2_tpost2_60_293_agent2.mp4",
     "description": "clips"
   },
   {
