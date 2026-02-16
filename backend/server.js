@@ -22,6 +22,7 @@ const allowed = [
   'https://jkli-2.github.io/human-preference-annotator/',
   'https://alex95gogo.github.io',
   'https://alex95gogo.github.io/human-preference-annotator/',
+  'https://alex95gogo.github.io/human-preference-annotator-vlm/',
   'http://localhost',
 ];
 // app.use(cors());
