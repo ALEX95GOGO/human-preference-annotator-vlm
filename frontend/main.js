@@ -2,6 +2,7 @@
 // const API_BASE = "https://human-preference-api.onrender.com/api";
 const API_BASE = "https://human-preference-annotator.onrender.com/api";
 
+
 const urlParams = new URLSearchParams(window.location.search);
 const token = urlParams.get("token");
 if (!token) {
