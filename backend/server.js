@@ -20,6 +20,7 @@ const app = express();
 const allowed = [
   'https://alex95gogo.github.io',
   'https://alex95gogo.github.io/human-preference-annotator-vlm/',
+  'https://alex95gogo.github.io/human-preference-annotator-vlm/admin',
   'http://localhost',
 ];
 // app.use(cors());
