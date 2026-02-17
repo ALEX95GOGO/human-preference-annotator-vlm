@@ -1,13 +1,13 @@
 import os
 import json
 
-VIDEO_DIR = "frontend/videos/front_cam_video"
+VIDEO_DIR = "videos/front_cam_video"
 OUTPUT_FILE = "pairs.json"
 
 pairs = []
 pair_id = 1
 
-for filename in sorted(os.listdir(os.path.join("../", VIDEO_DIR))):
+for filename in sorted(os.listdir(os.path.join("../frontend", VIDEO_DIR))):
     if not filename.lower().endswith(".mp4"):
         continue
 
